@@ -58,7 +58,7 @@ body{
 }
 
 a{
-  color: var(--color-white)
+  color: var(--color-info-light)
 }
 
 img{
@@ -184,6 +184,7 @@ aside .sidebar a:last-child{
 }
 
 aside .sidebar a.active{
+  color: var(--color-white);
   background: #6d95da;
   margin-left: 0;
 }
