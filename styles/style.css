@@ -134,6 +134,7 @@ b{
 }
 
 aside{
+  height: 100vh;
   width: 20rem;
   background: #5887d3;
 }
@@ -370,10 +371,6 @@ main .recent-orders a{
 
 main table tbody tr:last-child{
   border-bottom: none;
-}
-
-main .prueba{
-  height: 60rem;
 }
 
 /* ========= RIGHT ======= */
